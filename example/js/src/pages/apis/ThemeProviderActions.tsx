@@ -3,7 +3,7 @@ import Thresh, {
   basicWidgets,
   ui,
   Util,
-} from 'thresh-lib'
+} from 'clia-thresh-lib'
 import { Colors } from '../../config'
 
 const {

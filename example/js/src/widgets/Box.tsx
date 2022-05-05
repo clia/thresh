@@ -1,4 +1,4 @@
-import Thresh, { ui, basicWidgets } from 'thresh-lib'
+import Thresh, { ui, basicWidgets } from 'clia-thresh-lib'
 import { Colors } from '../config'
 
 const MARGIN = 10

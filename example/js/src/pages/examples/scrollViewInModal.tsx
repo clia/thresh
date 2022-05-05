@@ -2,9 +2,9 @@ import Thresh, {
   Widget,
   ui,
   basicWidgets
-} from 'thresh-lib'
+} from 'clia-thresh-lib'
 import Center from '../../widgets/Center'
-import { IconType } from 'thresh-lib/src/types/widget'
+import { IconType } from 'clia-thresh-lib/src/types/widget'
 
 const {
   Page,

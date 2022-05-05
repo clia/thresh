@@ -1,4 +1,4 @@
-import Thresh, { Widget, basicWidgets, ui, Util } from 'thresh-lib'
+import Thresh, { Widget, basicWidgets, ui, Util } from 'clia-thresh-lib'
 import { Colors } from '../../config'
 
 const { rpx } = ui

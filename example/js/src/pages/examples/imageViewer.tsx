@@ -3,7 +3,7 @@ import Thresh, {
   basicWidgets,
   Util,
   ui
-} from 'thresh-lib'
+} from 'clia-thresh-lib'
 import Center from '../../widgets/Center'
 import BannerImage1 from '../../assets/test_image.png'
 import BannerImage2 from '../../assets/icon_dealing.png'

@@ -2,9 +2,9 @@ import Thresh, {
   Widget,
   ui,
   basicWidgets
-} from 'thresh-lib'
+} from 'clia-thresh-lib'
 import { Colors } from '../../config'
-import { DragableScrollView } from 'thresh-lib/src/core/basicWidget'
+import { DragableScrollView } from 'clia-thresh-lib/src/core/basicWidget'
 
 const {
   Page,

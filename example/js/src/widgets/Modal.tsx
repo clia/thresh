@@ -1,4 +1,4 @@
-import Thresh, { Widget, basicWidgets, ui } from 'thresh-lib'
+import Thresh, { Widget, basicWidgets, ui } from 'clia-thresh-lib'
 import Center from './Center'
 
 const { Text, Button, Container, Icon } = basicWidgets

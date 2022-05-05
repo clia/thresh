@@ -3,7 +3,7 @@ Widget,
 ui,
 basicWidgets,
 Util
-} from 'thresh-lib'
+} from 'clia-thresh-lib'
 import Box from '../../widgets/Box'
 import Title from '../../widgets/Title'
 import { Colors } from '../../config'

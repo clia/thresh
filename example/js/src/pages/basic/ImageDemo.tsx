@@ -1,4 +1,4 @@
-import Thresh, { basicWidgets, Util } from 'thresh-lib'
+import Thresh, { basicWidgets, Util } from 'clia-thresh-lib'
 import { Colors } from '../../config'
 import Title from '../../widgets/Title'
 import Box from '../../widgets/Box'

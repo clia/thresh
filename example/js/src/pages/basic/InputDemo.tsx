@@ -1,8 +1,8 @@
-import Thresh, { basicWidgets, Util } from 'thresh-lib'
+import Thresh, { basicWidgets, Util } from 'clia-thresh-lib'
 import { Colors } from '../../config'
 import Title from '../../widgets/Title'
 import Box from '../../widgets/Box'
-import { Input } from 'thresh-lib/src/core/basicWidget'
+import { Input } from 'clia-thresh-lib/src/core/basicWidget'
 
 const { Page, AppBar, Container } = basicWidgets
 

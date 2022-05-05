@@ -3,7 +3,7 @@ import Thresh, {
   basicWidgets,
   ui,
   Bridge,
-} from 'thresh-lib'
+} from 'clia-thresh-lib'
 import { Colors, widgetList, apiList } from '../config'
 import Box from '../widgets/Box'
 import Center from '../widgets/Center'

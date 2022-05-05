@@ -2,7 +2,7 @@ import Thresh, {
   Widget,
   ui,
   basicWidgets
-} from 'thresh-lib'
+} from 'clia-thresh-lib'
 import Box from '../../widgets/Box'
 
 const {

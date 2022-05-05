@@ -1,5 +1,5 @@
-import Thresh, { ui, Util } from "thresh-lib";
-import { AppBar, Container, GridView, Page, Text } from "thresh-lib/src/core/basicWidget";
+import Thresh, { ui, Util } from "clia-thresh-lib";
+import { AppBar, Container, GridView, Page, Text } from "clia-thresh-lib/src/core/basicWidget";
 import { Colors } from "../../config";
 
 export default class GridViewDemo extends Thresh.Widget<any, any> {

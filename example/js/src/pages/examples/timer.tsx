@@ -2,7 +2,7 @@ import Thresh, {
   Widget,
   Util,
   basicWidgets
-} from 'thresh-lib'
+} from 'clia-thresh-lib'
 
 const {
   Page,

@@ -1,4 +1,4 @@
-import Thresh, { basicWidgets } from 'thresh-lib'
+import Thresh, { basicWidgets } from 'clia-thresh-lib'
 
 const { Page, AppBar, ScrollView, Container, Text, Image, Button } = basicWidgets
 

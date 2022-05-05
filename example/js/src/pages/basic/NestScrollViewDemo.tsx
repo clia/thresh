@@ -3,9 +3,9 @@ import Thresh, {
   ui,
   basicWidgets,
   Util
-} from 'thresh-lib'
+} from 'clia-thresh-lib'
 import { Colors } from '../../config'
-import { Image } from 'thresh-lib/src/core/basicWidget'
+import { Image } from 'clia-thresh-lib/src/core/basicWidget'
 import Center from '../../widgets/Center'
 
 const {

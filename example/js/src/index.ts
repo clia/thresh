@@ -1,5 +1,5 @@
-import Thresh, { ui } from 'thresh-lib'
-import threshThemeProvider from 'thresh-theme-provider'
+import Thresh, { ui } from 'clia-thresh-lib'
+//import threshThemeProvider from 'thresh-theme-provider'
 import { widgetList, apiList, extraPages } from './config'
 import HomePage from './pages/homePage'
 import PreDialog from './pages/preDialog'
@@ -16,7 +16,7 @@ widgetList.concat(apiList, extraPages).forEach(({ pageName, pageBuilder, useInje
 })
 
 Thresh.useProviders({
-  propsProvider: [threshThemeProvider]
+  //propsProvider: [threshThemeProvider]
 })
 
 // flutter 环境准备就绪

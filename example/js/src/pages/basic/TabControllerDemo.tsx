@@ -1,5 +1,5 @@
-import Thresh, { ui, Util, Widget } from "thresh-lib";
-import { AppBar, Container, Page, TabView, Text } from "thresh-lib/src/core/basicWidget";
+import Thresh, { ui, Util, Widget } from "clia-thresh-lib";
+import { AppBar, Container, Page, TabView, Text } from "clia-thresh-lib/src/core/basicWidget";
 import { Colors } from "../../config";
 
 

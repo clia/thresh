@@ -2,10 +2,10 @@ import Thresh, {
   Widget,
   basicWidgets,
   ui
-} from 'thresh-lib'
+} from 'clia-thresh-lib'
 import Box from '../../widgets/Box'
 import { Colors } from '../../config'
-import { NativeView } from 'thresh-lib/src/core/basicWidget'
+import { NativeView } from 'clia-thresh-lib/src/core/basicWidget'
 
 const {
   Page,
